@@ -6,5 +6,11 @@ Este projeto foi desenvolvido durante a semana dev week com orientação dos gê
 Este projeto consiste em uma tela de seleção de personagens de um jogo de luta entre dois personagens 2D. Com o tema da Marvel, onde o personagem do player 2(a máquina) já vem selecionado
 como o ultron
 
+# Tecnologias Utilizadas
+
+* HTML
+* CSS
+* JAVASCRIPT
+
 Visualização do projeto
 https://haastz.github.io/projeto-marvel-mapadev-week/
